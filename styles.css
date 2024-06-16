@@ -120,11 +120,12 @@ h1
 
 .cardMain .logo
 {
-	width: 30vh;
-	height: 30vh;
+	width: 26vh;
+	height: 26vh;
 	border: 4px solid #7ff;
 	border-radius: 50%;
 	padding: 1vh;
+	margin: 2vh;
 }
 
 .cardMain .mediaList
@@ -139,7 +140,6 @@ h1
 {
 	display: block;
 	flex: 0 1 auto;
-	margin: 10px;
 	background-color: #000;
 	border-radius: 50%;
 	padding: 0;
